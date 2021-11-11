@@ -1,0 +1,8 @@
+Name: "Terraform-planner"
+
+on:
+  push:
+    branches:
+    - planner
+    #this will have the basics of where to push the code too
+  
